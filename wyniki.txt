@@ -1,0 +1,4 @@
+Poprawnych: 171
+Naprawialnych: 14
+Nienaprawialnych: 15
+Maks bledow: 7
